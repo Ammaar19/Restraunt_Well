@@ -1,30 +1,31 @@
 #                              RESTAURANT LANDING PAGE         
+
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/2df92a8b-bb4d-4703-b66f-1704e02bf1ac)
 
-## Introduction
+# Introduction
 Welcome to our exquisite restaurant, where passion meets flavor! This code repository represents the heart and soul of our digital presence.
 
-## Key Features
-# React Magic: 
+# Key Features
+## React Magic: 
 Engage with our website powered by React, embracing functional components for seamless navigation.
 
-# Aesthetic Design: 
+## Aesthetic Design: 
 Immerse yourself in a visually stunning experience, harmonizing modern UI principles and user-centric design.
 Structural Brilliance: Discover the elegance of our React file and folder structure, promoting code readability and component reusability.
 What Sets Us Apart
 
-# CSS Mastery: 
+## CSS Mastery: 
 Embrace the fundamentals of CSS with a touch of artistry, from flex and grid to the BEM model, ensuring a visually captivating layout.
-# Dynamic Animations: 
+## Dynamic Animations: 
 Experience a journey from soft, delightful animations to intricate gradients, enhancing your interaction with our digital ambiance.
 
-# Device Harmony: 
+## Device Harmony: 
 Our design seamlessly adapts to devices of all sizes, with meticulously placed media queries for a satisfying experience across platforms.
 
-## About Us
+# About Us
 This repository is a testament to our commitment to excellence. 
 
-## Stats and Contributors
+# Stats and Contributors
 
 Stars: 1.3k
 Watchers: 9
@@ -35,7 +36,7 @@ JavaScript: 53.5%
 CSS: 43.2%
 HTML: 3.3%
 
-## Some Photoraghs of the whole site
+# Some Photoraghs of the whole site
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/68deba88-a689-4f03-8d85-27fbbbebd254)
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/a8ee0a5b-3d08-4bd9-a1c6-6a40564b39fa)
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/7efbc1d6-bbfe-4304-9fc1-2c6f27ad58e7)
@@ -45,7 +46,7 @@ HTML: 3.3%
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/de3fc35b-597c-4980-a58e-2cfead77241b)
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/d649ad0d-b8a0-4440-bcd5-fa4fd69fcc06)
 
-### The Video of the website
+# The Video of the website
 
 https://github.com/Ammaar19/Restraunt_Well/assets/117352598/ca4caed0-b80e-4176-b506-f07bd06bbd03
 
