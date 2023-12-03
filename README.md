@@ -1,6 +1,3 @@
-![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/091c5736-485b-45bb-b60a-4c6d6112b4cd)# Restaurant Landing Page
-### [Live Site](https://gericht-restaurant.com/)
-
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/2df92a8b-bb4d-4703-b66f-1704e02bf1ac)
 
 
