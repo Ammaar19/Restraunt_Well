@@ -3,44 +3,29 @@ Live Site
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/145d654d-6e5d-46e1-ba97-324515116585)
 
 Restaurant Landing Page
-
-🌟 Become a top 1% Next.js 13 developer in only one course
-🚀 Land your dream programming job in 6 months
-Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+🌟 Elevate Your Dining Experience with Next-Level Cuisine
+🚀 Explore a Culinary Journey Like Never Before
 
 Introduction
-This is a code repository for the corresponding Restraunt Website
+Welcome to our exquisite restaurant, where passion meets flavor! This code repository represents the heart and soul of our digital presence.
 
-React Functional components and their reusability
-React file and folder structure
-Fundamental CSS properties to master flex & grid
-Fundamentals of the CSS BEM Model
-From soft and pleasant animations to complex gradients
-Perfectly placed media queries for satisfactory responsiveness covering almost devices
-About
-This is a code repository for Restraunt Website
+Key Features
+React Magic: Engage with our website powered by React, embracing functional components for seamless navigation.
+Aesthetic Design: Immerse yourself in a visually stunning experience, harmonizing modern UI principles and user-centric design.
+Structural Brilliance: Discover the elegance of our React file and folder structure, promoting code readability and component reusability.
+What Sets Us Apart
+CSS Mastery: Embrace the fundamentals of CSS with a touch of artistry, from flex and grid to the BEM model, ensuring a visually captivating layout.
+Dynamic Animations: Experience a journey from soft, delightful animations to intricate gradients, enhancing your interaction with our digital ambiance.
+Device Harmony: Our design seamlessly adapts to devices of all sizes, with meticulously placed media queries for a satisfying experience across platforms.
+About Us
+This repository is a testament to our commitment to excellence. 
 
-jsmastery.pro
-Topics
-react ui modern reactjs ux
-Resources
- Readme
- Activity
-Stars
- 1.3k stars
-Watchers
- 9 watching
-Forks
- 331 forks
-Contributors
-1
+Stats and Contributors
+Stars: 1.3k
+Watchers: 9
+Forks: 331
+Contributors: 1
 Languages
-JavaScript
-53.5%
- 
-CSS
-43.2%
- 
-HTML
-3.3%
+JavaScript: 53.5%
+CSS: 43.2%
+HTML: 3.3%
