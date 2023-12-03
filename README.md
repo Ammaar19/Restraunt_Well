@@ -1,4 +1,4 @@
-##### Restraunt Landing Page
+### Restraunt Landing Page
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/2df92a8b-bb4d-4703-b66f-1704e02bf1ac)
 
 ## Introduction
