@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/091c5736-485b-45bb-b60a-4c6d6112b4cd)# Restaurant Landing Page
 ### [Live Site](https://gericht-restaurant.com/)
 
 ![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/2df92a8b-bb4d-4703-b66f-1704e02bf1ac)
@@ -41,3 +41,26 @@ Languages
 JavaScript: 53.5%
 CSS: 43.2%
 HTML: 3.3%
+
+## Some Photoraghs of the whole site
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/68deba88-a689-4f03-8d85-27fbbbebd254)
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/a8ee0a5b-3d08-4bd9-a1c6-6a40564b39fa)
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/7efbc1d6-bbfe-4304-9fc1-2c6f27ad58e7)
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/e54ad714-0b75-47d2-86cb-63916d3f3f31)
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/10d72603-8611-4fff-90f9-0d59024f4ce9)
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/4daa6164-1b5a-4d6e-bc73-c72053a3b00b)
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/de3fc35b-597c-4980-a58e-2cfead77241b)
+![image](https://github.com/Ammaar19/Restraunt_Well/assets/117352598/d649ad0d-b8a0-4440-bcd5-fa4fd69fcc06)
+
+### The Video of the website
+
+Uploading React-App-Brave-2023-12-03-19-48.mp4…
+
+
+
+
+
+
+
+
+
